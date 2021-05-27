@@ -22,7 +22,7 @@ python3 main.py
 ## Controls
 ### ` a` or `A` - paddle moves towards left.
 ### `d` or `D` - paddle moves towards right.
-### 'n' or 'N' - Moves to next Level
+### `n` or `N` - Moves to next Level
 ### `q` or `Q` - Quit the game.
 ### `<space>` - release the ball.
 
