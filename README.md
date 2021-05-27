@@ -70,8 +70,8 @@ Classes and objects based approach is used which makes this program more modular
 
 ## Powerups implemented
 
-### long paddle 
-### short paddle 
-### thru Ball 
+### Long paddle 
+### Short paddle 
+### Thru Ball 
 ### Fast Ball
 ### Ball grab 
